@@ -2,8 +2,10 @@
   "games": {
     "Black Myth Wukong": {
       "exe": "b1.exe",
+      "thumbnail": "https://link-to-image.png",
+      "hash": "SHA256_HASH_HERE",
       "versions": {
-        "Latest Build 20315824": "https://drive.google.com/uc?export=download&id=10rgJaHGUy4tFgPobVrN4zL6jcvuuQVjD"
+        "Latest Build 20315824": "https://drive.google.com/uc?export=download&id=FILE_ID"
       }
     }
   }
