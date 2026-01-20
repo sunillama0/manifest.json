@@ -2,7 +2,7 @@
   "games": {
     "Black Myth Wukong": {
       "exe": "b1.exe",
-      "thumbnail": "https://link-to-image.png",
+      "thumbnail": "https://www.theguardian.com/games/article/2024/jul/25/black-myth-wukong-the-summers-most-exciting-and-most-controversial-video-game",
       "hash": "SHA256_HASH_HERE",
       "versions": {
         "Latest Build 20315824": "https://drive.google.com/uc?export=download&id=FILE_ID"
@@ -10,3 +10,4 @@
     }
   }
 }
+
