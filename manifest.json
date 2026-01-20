@@ -3,8 +3,13 @@
     "Black Myth Wukong": {
       "exe": "b1.exe",
       "thumbnail": "https://i.ytimg.com/vi/1xGiPUeevCM/maxresdefault.jpg",
+      "archive_type": "rar",
+      "archive_password": "suniltgaming",
       "versions": {
-        "Latest Build 20315824": "https://drive.google.com/uc?export=download&id=10rgJaHGUy4tFgPobVrN4zL6jcvuuQVjD"
+        "Latest Build 20315824": {
+          "tag": "Latest",
+          "url": "https://drive.google.com/uc?export=download&id=10rgJaHGUy4tFgPobVrN4zL6jcvuuQVjD"
+        }
       }
     }
   }
