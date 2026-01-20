@@ -8,7 +8,9 @@
       "versions": {
         "Latest Build 20315824": {
           "tag": "Latest",
-          "url": "https://drive.google.com/uc?export=download&id=10rgJaHGUy4tFgPobVrN4zL6jcvuuQVjD"
+          "mirrors": [
+            "https://drive.google.com/uc?export=download&id=10rgJaHGUy4tFgPobVrN4zL6jcvuuQVjD",
+          ]
         }
       }
     }
